@@ -1,8 +1,9 @@
 ## Architecture Overview
  
- ![AWSNetworking drawio](https://github.com/user-attachments/assets/9fb14a24-fe3f-4a32-8281-3bb83087fb01)
+![AWSNetworking drawio](https://github.com/user-attachments/assets/48336c0c-91fa-445c-98ce-a0162a66eb10)
 
-This Terraform configuration sets up a basic AWS infrastructure within the us-east-2 region, featuring a Virtual Private Cloud (VPC) with both public and private subnets, as well as EC2 instances and associated resources.
+
+***This Terraform configuration sets up a basic AWS infrastructure within the us-east-2 region, featuring a Virtual Private Cloud (VPC) with both public and private subnets, as well as EC2 instances and associated resources.***
 
 **Components**
 
